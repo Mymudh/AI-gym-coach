@@ -1,1 +1,1 @@
-# ai-gym-coach
+AI Gym Coach – Built an AI-powered gym coaching application that provides personalized workout guidance, exercise recommendations, and fitness tracking. The project demonstrates Python, AI/ML, and practical application development.
